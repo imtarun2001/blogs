@@ -1,0 +1,10 @@
+.blogs {
+    width: 600px;
+    max-height: 530px;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
